@@ -1,0 +1,15 @@
+__pycache__/
+jupyter/.ipynb_checkpoints/
+.ipynb_checkpoints/
+.idea/
+.DS_Store
+*.png
+*.csv
+*.json
+*.zip
+nohup.out
+
+data/
+pickle/
+resuts/
+venv/
